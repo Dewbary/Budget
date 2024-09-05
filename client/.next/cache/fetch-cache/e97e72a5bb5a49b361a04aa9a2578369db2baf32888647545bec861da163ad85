@@ -1,0 +1,1 @@
+{"kind":"FETCH","data":{"headers":{"connection":"keep-alive","content-length":"15","content-type":"application/json","date":"Tue, 23 Jul 2024 04:26:22 GMT","keep-alive":"timeout=60"},"body":"SGVsbG8sIEJyZW5kYW4h","status":200,"url":"http://localhost:8080/hello?name=Brendan"},"revalidate":31536000,"tags":[]}
